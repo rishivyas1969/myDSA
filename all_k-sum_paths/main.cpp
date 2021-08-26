@@ -51,9 +51,9 @@ void printKPath(Node *root, int k)
 
 int main()
 {
-//            1
+//            2
 //          /   \
-//         2     3
+//         1     3
 //       /   \
 //      4     5
 //    /

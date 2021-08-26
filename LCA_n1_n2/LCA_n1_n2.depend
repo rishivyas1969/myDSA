@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630007484 source:p:\dsa\dsa v2\lca_n1_n2\main.cpp
+	<iostream>
+	<vector>
+
